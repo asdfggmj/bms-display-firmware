@@ -1,12 +1,12 @@
 {
-    "version":  "0.3.1",
+    "version":  "0.3.2",
     "mandatory":  false,
     "changes":  [
                     "ui",
-                    "bms",
+                    "ota",
                     "fix"
                 ],
-    "size":  1735488,
-    "sha256":  "4b05d8bd2f548f3096cc7751a16d64b4825fecec176fb3c3981b03d3d8c5e86d",
-    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.3.1/firmware.bin"
+    "size":  1735888,
+    "sha256":  "fa4bfb59d82dfbadd8ef59398f9b821e7b84ce3be30f7f45faa316d762e32e40",
+    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.3.2/firmware.bin"
 }
