@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.1",
+    "version":  "0.2.2",
     "mandatory":  false,
-    "size":  1686976,
-    "sha256":  "aa0af01078987676edf748cfcad96cca6c2d294d696e37a83a4e3725f425eae6",
-    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.2.1/firmware.bin"
+    "size":  1674544,
+    "sha256":  "59a3b216e0353a394c8be3ea8974701451bd7db7bd6b747b612f7a5e10136436",
+    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.2.2/firmware.bin"
 }
