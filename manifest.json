@@ -1,5 +1,5 @@
 {
-    "version":  "0.3.3",
+    "version":  "0.4.0",
     "mandatory":  false,
     "changes":  [
                     "ui",
@@ -7,6 +7,6 @@
                     "fix"
                 ],
     "size":  1740128,
-    "sha256":  "4ace357f0aacaaf378aca6e2778b9bcbdce037773d7ab741eb1a48b5f51f8ae5",
-    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.3.3/firmware.bin"
+    "sha256":  "5594046794aecad6b2368572e75e7dd037a55b0999ea732b15acd04ff7184cb9",
+    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.4.0/firmware.bin"
 }
