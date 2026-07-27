@@ -6,7 +6,7 @@
                     "ota",
                     "fix"
                 ],
-    "size":  1815040,
-    "sha256":  "10a36c57318c32d5d1f49eef57c1d82ec78530a521c54cae10e97486086f1995",
+    "size":  1815616,
+    "sha256":  "1f8afffc25a5edf32465620209cec06ed3c35918a078fc2f9056159c52f56193",
     "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.5.1/firmware.bin"
 }
