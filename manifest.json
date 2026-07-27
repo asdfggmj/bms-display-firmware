@@ -1,12 +1,12 @@
 {
-    "version":  "0.4.0",
+    "version":  "0.5.0",
     "mandatory":  false,
     "changes":  [
+                    "alerts",
                     "ui",
-                    "wifi",
                     "fix"
                 ],
-    "size":  1740128,
-    "sha256":  "5594046794aecad6b2368572e75e7dd037a55b0999ea732b15acd04ff7184cb9",
-    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.4.0/firmware.bin"
+    "size":  1814128,
+    "sha256":  "9ddf4307e5f60f56535bc09c0ec16e4d0adc5590cb59ec449a1b76d9adcc68fd",
+    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.5.0/firmware.bin"
 }
