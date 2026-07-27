@@ -4,9 +4,10 @@
     "changes":  [
                     "alerts",
                     "ui",
+                    "ota",
                     "fix"
                 ],
-    "size":  1814128,
-    "sha256":  "9ddf4307e5f60f56535bc09c0ec16e4d0adc5590cb59ec449a1b76d9adcc68fd",
+    "size":  1814944,
+    "sha256":  "a6e9c4f675ff1e5725da091724ff087fe48536493b5a86a0668c2e0dc98f48b9",
     "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.5.0/firmware.bin"
 }
