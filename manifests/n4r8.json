@@ -1,0 +1,18 @@
+{
+    "schema":  2,
+    "product":  "bms-display",
+    "hardware":  "jc4827w543c-i-n4r8",
+    "layout":  "dual-ota-4mb-v1",
+    "track":  "n4r8-lts",
+    "version":  "0.6.1",
+    "mandatory":  false,
+    "changes":  [
+                    "ota",
+                    "ble",
+                    "ui",
+                    "fix"
+                ],
+    "size":  1746960,
+    "sha256":  "87f92c76538dadf4df9dd88e0374ae23d6b7e79628f152b9976e270bf4ec12bb",
+    "url":  "https://github.com/asdfggmj/bms-display-firmware/releases/download/0.6.1/firmware-n4r8.bin"
+}
